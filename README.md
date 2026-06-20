@@ -1,6 +1,6 @@
 # Hi, I'm Kristian Cross
 
-I'm a career changer based in Oxfordshire, currently building a career in software development/IT support/Linux systems.
+I'm a career changer based in Oxfordshire, looking to build a career in software development/IT support/Linux systems.
 
 I have completed a Level 5 Diploma in Full-Stack Software Development with Code Institute, with formal certification currently pending. My main technical experience so far has been with Python, Django, JavaScript, PostgreSQL, HTML, CSS, Git and Linux.
 
@@ -119,6 +119,5 @@ I am currently open to junior or entry-level opportunities in:
 
 ## Contact
 
-- LinkedIn: [add your LinkedIn URL]
-- GitHub: [add your GitHub URL]
-- Portfolio: [add your portfolio URL when ready]
+- LinkedIn: www.linkedin.com/in/kristian-cross
+- Portfolio: To come soon.
