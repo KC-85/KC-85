@@ -11,7 +11,7 @@ Before moving into tech, I worked in adult social care. That background helped m
 - Strengthening Python & JavaScript/Typescript problem-solving
 - Building practical web development projects
 - Developing Linux, cloud and infrastructure knowledge
-- Studying towards Microsoft Azure Fundamentals
+- Learning Typescript & Nuxt
 - Exploring junior roles in software development, IT support and Linux systems administration
 
 ## Tech Stack
@@ -49,7 +49,7 @@ Before moving into tech, I worked in adult social care. That background helped m
 ### Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/AZ--900-In%20Progress-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
 ![Linux Administration](https://img.shields.io/badge/Linux%20Administration-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Projects
