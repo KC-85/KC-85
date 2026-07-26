@@ -2,7 +2,7 @@
 
 I'm a career changer based in Oxfordshire, looking to build a career in software development/IT support/Linux systems.
 
-I have completed a Level 5 Diploma in Full-Stack Software Development with Code Institute, with formal certification currently pending. My main technical experience so far has been with Python, Django, JavaScript, PostgreSQL, HTML, CSS, Git and Linux.
+I have completed a Diploma in Full-Stack Software Development with Code Institute, with formal certification currently pending. My main technical experience so far has been with Python, Django, JavaScript, PostgreSQL, HTML, CSS, Git and Linux.
 
 Before moving into tech, I worked in adult social care. That background helped me develop strong communication skills, patience, reliability and the ability to stay calm when solving problems.
 
@@ -11,7 +11,7 @@ Before moving into tech, I worked in adult social care. That background helped m
 - Strengthening Python & JavaScript/Typescript problem-solving
 - Building practical web development projects
 - Developing Linux, cloud and infrastructure knowledge
-- Learning Typescript & Nuxt
+- Learning Typescript & Go
 - Exploring junior roles in software development, IT support and Linux systems administration
 
 ## Tech Stack
@@ -49,7 +49,7 @@ Before moving into tech, I worked in adult social care. That background helped m
 ### Currently Learning
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ![Linux Administration](https://img.shields.io/badge/Linux%20Administration-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Projects
