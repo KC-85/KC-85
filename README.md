@@ -48,9 +48,8 @@ Before moving into tech, I worked in adult social care. That background helped m
 
 ### Currently Learning
 
-![TypeScript](https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-![Linux Administration](https://img.shields.io/badge/Linux%20Administration-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## Projects
 
@@ -80,31 +79,24 @@ A Django-based game review platform with authentication, CRUD functionality and 
 - User authentication
 - Content management
 
-### Portfolio Website
+### DocuForge
+
+Coming soon.
+
+A documentation template generator that helps developers and teams create consistent, production-ready repository documentation without spending unnecessary time writing it from scratch.
+
+### UK Weather
 
 In development.
 
-A personal portfolio project being built to present my work and practise frontend/backend integration.
-
-**Planned stack:**
-
-- Vue.js
-- FastAPI
-- Python
-- JavaScript
-
-### YAMLconfig
-
-In development.
-
-A Python project for generating structured YAML configuration files, with future use cases around Docker, Podman and Ansible-style workflows.
+A personal project which will provide live weather forecasting, as well as hourly, daily and 7-day forecasts.
 
 **Key areas:**
 
 - Python
-- YAML
-- Configuration files
-- Automation thinking
+- Django (Wrapper)
+- Interactive map via unitary authority region.
+- Data-driven (Imported from OpenMeteo + Ordanance Survey)
 
 ## What I'm Looking For
 
