@@ -10,8 +10,8 @@ Before moving into tech, I worked in adult social care. That background helped m
 
 - Strengthening Python & JavaScript/Typescript problem-solving
 - Building practical web development projects
-- Developing Linux, cloud and infrastructure knowledge
-- Learning Typescript & Go
+- Developing Linux, CI/CD and Docker knowledge
+- Learning Typescript & soon to be learning Go
 - Exploring junior roles in software development, IT support and Linux systems administration
 
 ## Tech Stack
