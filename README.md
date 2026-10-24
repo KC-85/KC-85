@@ -31,6 +31,7 @@ Before moving into tech, I worked in adult social care. That background helped m
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 ### Databases
 
@@ -46,9 +47,11 @@ Before moving into tech, I worked in adult social care. That background helped m
 
 ### Currently Learning
 
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
-
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/12f641dc-325e-4672-945b-f1ca4bf9d18d.jpeg?v=1792865795)](https://www.boot.dev/certificates/12f641dc-325e-4672-945b-f1ca4bf9d18d)
+
+[![Boot.dev Learn Git certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/237d925b-210d-48bd-8629-5a4a70a2b050.jpeg?v=1787059030)](https://www.boot.dev/certificates/237d925b-210d-48bd-8629-5a4a70a2b050)
+
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bd2b522a-61bc-4059-b515-58a1b4aa9a30.jpeg?v=1786818985)](https://www.boot.dev/certificates/bd2b522a-61bc-4059-b515-58a1b4aa9a30)
 
 ## Projects
 
